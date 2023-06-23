@@ -1,5 +1,5 @@
 
-## BEM-VINDO(A) AO MEU PERFIL
+## WELCOME TO MY PROFILE
 
 
 <div align="center">
